@@ -1,2 +1,2 @@
 # GitAndGithub-Demo
-this is a git and github demo repository
+This is a git and github demo repository.
